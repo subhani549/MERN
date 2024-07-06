@@ -1,0 +1,16 @@
+header {
+    display: flex;
+    background-color: #f0fff8;
+
+}
+.header h3 {
+    font-size: 25px;
+    
+}
+.header ul{
+    list-style: none;
+}
+.header li {
+    display: inline-block;
+    padding-left: 20px;
+}
